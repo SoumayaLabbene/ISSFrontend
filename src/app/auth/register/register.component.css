@@ -1,0 +1,57 @@
+* {   
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+  background-image: url("https://image.freepik.com/photos-gratuite/lieu-travail-clavier-cahiers-tasse-cafe_23-2148128461.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+  .header {
+    width: 30%;
+    margin: 0px auto ; 
+    color: white;
+    background: #ead5c4;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 0px 10px 0px;
+    padding: 20px;
+  }
+  form, .content {
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+  }
+  .input-group {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+  }
+  .input-group label {
+    display: block;
+    text-align: center;
+    margin: 3px;
+  }
+  .input-group input {
+    height: 30px;
+    width: 30%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  .btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #ead5c4;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  
