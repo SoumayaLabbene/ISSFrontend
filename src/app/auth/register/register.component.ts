@@ -11,5 +11,13 @@ export class RegisterComponent implements OnInit {
 
   ngOnInit() {
   }
+  goToAdd() {​​
 
+    console.log("clicked");
+
+    
+
+    this.router.navigate(["/register"]);
+
+  }​​
 }

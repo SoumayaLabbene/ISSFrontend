@@ -12,5 +12,13 @@ constructor(private router: Router) {​​ }​​
 
   ngOnInit() {
   }
+  goToAdd() {​​
 
+    console.log("clicked");
+
+    
+
+    this.router.navigate(["/login"]);
+
+  }​​
 }
