@@ -1,8 +1,11 @@
 body{
-    height: 100%;
     background-image: url("https://image.freepik.com/photos-gratuite/lieu-travail-clavier-cahiers-tasse-cafe_23-2148128461.jpg");
+        height: 100%;
+
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: "Georgia", Times, serif;
+
     }
     
     .user_card{
